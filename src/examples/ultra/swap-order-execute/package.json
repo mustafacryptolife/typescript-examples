@@ -1,0 +1,19 @@
+{
+    "name": "swap-order-execute",
+    "version": "1.0.0",
+    "description": "TypeScript example for Jupiter Ultra API swap order execution",
+    "main": "dist/index.js",
+    "scripts": {
+        "start": "ts-node src/index.ts",
+        "build": "tsc"
+    },
+    "devDependencies": {
+        "typescript": "^5.3.3",
+        "ts-node": "^10.9.2",
+        "@types/node": "^20.11.20"
+    },
+    "dependencies": {
+        "@solana/web3.js": "^1.95.2",
+        "bs58": "^6.0.0"
+    }
+}
