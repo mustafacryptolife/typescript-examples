@@ -20,7 +20,7 @@ Written in Typescript.
 
 ## Getting Help
 
-If you have any questions or issues, feel free to reach out to us in the `#developer-support` channel on [Jupiter Discord](https://discord.com/invite/jup)
+If you have any questions or issues, feel free to reach out to us in the `#developer-support` channel on [Discord](https://discord.com/invite/jup)
 
 ## Powered by the Jupiter DevRel Working Group
 
