@@ -12,7 +12,7 @@ Written in Typescript.
 
 ## V1 API
 
-- [V1 Quote Build Send Script](examples/v1/quote-build-send/README.md)
+- [V1 Quote, Build & Send Script](examples/v1/quote-build-send/README.md)
 
 ## Documentation
 

@@ -1,4 +1,4 @@
-# V1 API - Quote Build Send Script
+# V1 API - Quote, Build & Send Script
 
 This script demonstrates how to get a quote for a swap, build the swap, and then send the swap using the Jupiter V1 API.
 
