@@ -8,11 +8,11 @@ Written in Typescript.
 
 ### Ultra API
 
-- [Ultra Quote Swap Script](examples/ultra/simple-quote-swap/README.md)
+- [Ultra Order & Execute Script](examples/ultra/order-execute/README.md)
 
 ## V1 API
 
-- [V1 Quote Swap Script](examples/v1/simple-quote-swap/README.md)
+- [V1 Quote Build Send Script](examples/v1/quote-build-send/README.md)
 
 ## Documentation
 
