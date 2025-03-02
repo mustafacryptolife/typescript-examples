@@ -1,13 +1,13 @@
-# V1 API - Simple Quote Swap Script
+# Ultra API - Order & Execute Script
 
-This script demonstrates how to get a simple quote for a swap, and then execute the swap using the Jupiter V1 API.
+This script demonstrates how to get a quote for an order, and then execute the order using the Jupiter Ultra API.
 
 ## Prerequisites
 
 - Node.js (v16 or higher)
 - npm (v10 or higher)
+- Solana Wallet Public Address
 - Solana Wallet Private Key
-- Helius RPC API key
 
 ## Usage
 
@@ -17,10 +17,10 @@ This script demonstrates how to get a simple quote for a swap, and then execute 
 git clone https://github.com/Jupiter-DevRel/typescript-examples.git
 ```
 
-2. Navigate to the `examples/v1/simple-quote-swap` directory
+2. Navigate to the `examples/ultra/order-execute` directory
 
 ```bash
-cd examples/v1/simple-quote-swap
+cd examples/ultra/order-execute
 ```
 
 3. Install the dependencies
