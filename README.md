@@ -8,15 +8,15 @@ Written in Typescript.
 
 ### Ultra API
 
-- [Ultra Order & Execute Script](examples/ultra/order-execute/README.md)
+- [Order & Execute Script](examples/ultra/order-execute/README.md)
 
 ## V1 API
 
-- [V1 Quote, Build & Send Script](examples/v1/quote-build-send/README.md)
+- [Quote, Build & Send Script](examples/v1/quote-build-send/README.md)
 
 ## Documentation
 
-- [Space Station Documentation](https://station.jup.ag/docs/)
+[Space Station Documentation](https://station.jup.ag/docs/)
 
 ## Getting Help
 
