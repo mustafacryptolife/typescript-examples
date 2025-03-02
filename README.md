@@ -13,6 +13,7 @@ Written in Typescript.
 ## V1 API
 
 - [Quote, Build & Send Script](examples/v1/quote-build-send/README.md)
+- [Quote, Build & Send with Swap Instructions Script](examples/v1/quote-build-send-with-swap-instructions/README.md)
 
 ## Documentation
 
