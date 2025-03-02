@@ -1,6 +1,13 @@
-# Simple Quote Swap Script
+# Ultra API - Simple Quote Swap Script
 
 This script demonstrates how to get a simple quote for a swap, and then execute the swap using the Jupiter Ultra API.
+
+## Prerequisites
+
+- Node.js (v16 or higher)
+- npm (v10 or higher)
+- Solana Wallet Public Address
+- Solana Wallet Private Key
 
 ## Usage
 
@@ -10,10 +17,10 @@ This script demonstrates how to get a simple quote for a swap, and then execute 
 git clone https://github.com/Jupiter-DevRel/typescript-examples.git
 ```
 
-2. Navigate to the `src/examples/ultra/simple-quote-swap` directory
+2. Navigate to the `examples/ultra/simple-quote-swap` directory
 
 ```bash
-cd src/examples/ultra/simple-quote-swap
+cd examples/ultra/simple-quote-swap
 ```
 
 3. Install the dependencies

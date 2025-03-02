@@ -1,7 +1,7 @@
 {
-    "name": "swap-order-execute",
+    "name": "v1-simple-quote-swap",
     "version": "1.0.0",
-    "description": "TypeScript example for Jupiter Ultra API swap order execution",
+    "description": "TypeScript example for Jupiter V1 API simple quote swap",
     "type": "module",
     "scripts": {
         "example": "tsx src/example.ts"
