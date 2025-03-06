@@ -26,7 +26,7 @@ There are 3 ways you can set up referral keys:
 git clone https://github.com/Jupiter-DevRel/typescript-examples.git
 ```
 
-2. Navigate to the `examples/v1/quote-build-and-send-with-referral-accounts` directory
+2. Navigate to the `examples/v1/quote-build-send-with-referral-accounts` directory
 
 ```bash
 cd examples/v1/quote-build-send-with-referral-accounts
