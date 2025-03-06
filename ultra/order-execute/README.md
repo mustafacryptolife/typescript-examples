@@ -17,10 +17,10 @@ This script demonstrates how to get a quote for an order, and then execute the o
 git clone https://github.com/Jupiter-DevRel/typescript-examples.git
 ```
 
-2. Navigate to the `examples/ultra/order-execute` directory
+2. Navigate to the `ultra/order-execute` directory
 
 ```bash
-cd examples/ultra/order-execute
+cd ultra/order-execute
 ```
 
 3. Install the dependencies

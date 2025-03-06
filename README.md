@@ -8,12 +8,13 @@ Written in Typescript.
 
 ### Ultra API
 
-- [Order & Execute Script](examples/ultra/order-execute/README.md)
+- [Order & Execute Script](ultra/order-execute/README.md)
 
 ## V1 API
 
-- [Quote, Build & Send Script](examples/v1/quote-build-send/README.md)
-- [Quote, Build & Send with Swap Instructions Script](examples/v1/quote-build-send-with-swap-instructions/README.md)
+- [Quote, Build & Send Script](v1/quote-build-send/README.md)
+- [Quote, Build & Send with Swap Instructions Script](v1/quote-build-send-with-swap-instructions/README.md)
+- [Quote, Build & Send with Referral Accounts Script](v1/quote-build-send-with-referral-accounts/README.md)
 
 ## Documentation
 
