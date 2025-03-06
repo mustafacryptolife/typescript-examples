@@ -1,5 +1,5 @@
 {
-    "name": "v1-quote-build-and-send-with-referral-accounts",
+    "name": "v1-quote-build-send-with-referral-accounts",
     "version": "1.0.0",
     "description": "TypeScript example for Jupiter V1 API quote -> build -> send (with referral accounts)",
     "type": "module",

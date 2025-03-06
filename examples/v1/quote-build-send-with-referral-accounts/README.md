@@ -29,7 +29,7 @@ git clone https://github.com/Jupiter-DevRel/typescript-examples.git
 2. Navigate to the `examples/v1/quote-build-and-send-with-referral-accounts` directory
 
 ```bash
-cd examples/v1/quote-build-and-send-with-referral-accounts
+cd examples/v1/quote-build-send-with-referral-accounts
 ```
 
 3. Install the dependencies
