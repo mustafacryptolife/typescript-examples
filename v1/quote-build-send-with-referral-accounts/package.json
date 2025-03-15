@@ -5,7 +5,6 @@
     "type": "module",
     "scripts": {
         "example": "tsx src/example.ts",
-        "api/create-account": "tsx src/api/create-account.ts"
     },
     "devDependencies": {
         "tsx": "^4.7.1"
