@@ -4,7 +4,8 @@
     "description": "TypeScript example for Jupiter V1 API quote -> build -> send (with referral accounts)",
     "type": "module",
     "scripts": {
-        "example": "tsx src/example.ts"
+        "example": "tsx src/example.ts",
+        "api/create-account": "tsx src/api/create-account.ts"
     },
     "devDependencies": {
         "tsx": "^4.7.1"
