@@ -1,12 +1,13 @@
-# Trigger API (Limit Order) - Create Order
+# Trigger API (Limit Order) - Create & Execute Order
 
-This scripts shows how to use the v1 trigger API and create an order
+This scripts shows how to use the V1 Trigger API and create an order and execute it.
 
 ## Prerequisites
 
 - Node.js (v16 or higher)
 - npm (v10 or higher)
 - Solana Wallet Public Address
+- Helius RPC API Key
 - Solana Wallet Private Key
 
 ## Usage
@@ -17,10 +18,10 @@ This scripts shows how to use the v1 trigger API and create an order
 git clone https://github.com/Jupiter-DevRel/typescript-examples.git
 ```
 
-2. Navigate to the `trigger/create-order` directory
+2. Navigate to the `trigger/create-execute-order` directory
 
 ```bash
-cd trigger/create-order
+cd trigger/create-execute-order
 ```
 
 3. Install the dependencies

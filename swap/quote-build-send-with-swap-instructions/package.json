@@ -1,7 +1,7 @@
 {
-    "name": "v1-quote-build-send-with-swap-instructions",
+    "name": "v1-swap-quote-build-send-with-swap-instructions",
     "version": "1.0.0",
-    "description": "TypeScript example for Jupiter V1 API quote -> build -> send (with swap instructions)",
+    "description": "TypeScript example for Jupiter V1 Swap API quote -> build -> send (with swap instructions)",
     "type": "module",
     "scripts": {
         "example": "tsx src/example.ts"

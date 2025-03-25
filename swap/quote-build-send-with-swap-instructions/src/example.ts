@@ -163,7 +163,7 @@ async function quoteAndBuildSwapInstructions() {
     );
 
     const connection = new Connection(
-      "https://mainnet.helius-rpc.com/?api-key=YOUR_API_KEY",
+      "https://mainnet.helius-rpc.com/?api-key=YOUR_HELIUS_API_KEY",
       "confirmed"
     );
 

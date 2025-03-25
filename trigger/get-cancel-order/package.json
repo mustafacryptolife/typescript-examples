@@ -1,7 +1,7 @@
 {
-    "name": "v1-swap-quote-build-send-with-referral-accounts",
+    "name": "v1-trigger-get-cancel-order",
     "version": "1.0.0",
-    "description": "TypeScript example for Jupiter V1 Swap API quote -> build -> send (with referral accounts)",
+    "description": "TypeScript example for Jupiter V1 Trigger API get & cancel order(s)",
     "type": "module",
     "scripts": {
         "example": "tsx src/example.ts"
@@ -10,7 +10,6 @@
         "tsx": "^4.7.1"
     },
     "dependencies": {
-        "@jup-ag/referral-sdk": "^0.1.7",
         "@solana/web3.js": "^1.95.2",
         "bs58": "^6.0.0"
     }

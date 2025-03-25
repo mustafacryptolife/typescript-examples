@@ -1,7 +1,7 @@
 {
-    "name": "v1-trigger-create-order",
+    "name": "v1-trigger-create-execute-order",
     "version": "1.0.0",
-    "description": "TypeScript example for Jupiter V1 trigger API create order",
+    "description": "TypeScript example for Jupiter V1 Trigger API create & execute order",
     "type": "module",
     "scripts": {
         "example": "tsx src/example.ts"
