@@ -1,4 +1,4 @@
-# V1 API - Quote, Build & Send (with Swap Instructions) Script
+# Swap API (V1) - Quote, Build & Send (with Swap Instructions) Script
 
 This script demonstrates how to get a quote for a swap, build the swap (with swap instructions), and then send the swap using the Jupiter V1 API.
 
@@ -18,10 +18,10 @@ This script demonstrates how to get a quote for a swap, build the swap (with swa
 git clone https://github.com/Jupiter-DevRel/typescript-examples.git
 ```
 
-2. Navigate to the `v1/quote-build-send-with-swap-instructions` directory
+2. Navigate to the `swap/quote-build-send-with-swap-instructions` directory
 
 ```bash
-cd v1/quote-build-send-with-swap-instructions
+cd swap/quote-build-send-with-swap-instructions
 ```
 
 3. Install the dependencies

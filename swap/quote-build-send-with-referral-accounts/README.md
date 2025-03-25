@@ -1,4 +1,4 @@
-# V1 API - Quote, Build & Send (with Referral Accounts) Script
+# Swap API (V1) - Quote, Build & Send (with Referral Accounts) Script
 
 This script demonstrates how to get a quote for a swap, build the swap (with referral accounts), and then send the swap using the Jupiter V1 API. This is useful for when you want to earn fees from the swaps.
 
@@ -23,10 +23,10 @@ This script demonstrates how to get a quote for a swap, build the swap (with ref
 git clone https://github.com/Jupiter-DevRel/typescript-examples.git
 ```
 
-2. Navigate to the `v1/quote-build-send-with-referral-accounts` directory
+2. Navigate to the `swap/quote-build-send-with-referral-accounts` directory
 
 ```bash
-cd v1/quote-build-send-with-referral-accounts
+cd swap/quote-build-send-with-referral-accounts
 ```
 
 3. Install the dependencies

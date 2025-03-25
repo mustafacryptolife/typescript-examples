@@ -1,14 +1,13 @@
-# V1 API - Quote, Build & Send Script
+# Trigger API (Limit Order) - Create Order
 
-This script demonstrates how to get a quote for a swap, build the swap, and then send the swap using the Jupiter V1 API.
+This scripts shows how to use the v1 trigger API and create an order
 
 ## Prerequisites
 
 - Node.js (v16 or higher)
 - npm (v10 or higher)
+- Solana Wallet Public Address
 - Solana Wallet Private Key
-- Helius RPC API key
-- Jupiter V1 API Key (optional) - get it [here](https://portal.jup.ag/)
 
 ## Usage
 
@@ -18,10 +17,10 @@ This script demonstrates how to get a quote for a swap, build the swap, and then
 git clone https://github.com/Jupiter-DevRel/typescript-examples.git
 ```
 
-2. Navigate to the `v1/quote-build-send` directory
+2. Navigate to the `trigger/create-order` directory
 
 ```bash
-cd v1/quote-build-send
+cd trigger/create-order
 ```
 
 3. Install the dependencies
