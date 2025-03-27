@@ -10,11 +10,20 @@ Written in Typescript.
 
 - [Order & Execute Script](ultra/order-execute/README.md)
 
-## V1 API
+## Swap API
 
-- [Quote, Build & Send Script](v1/quote-build-send/README.md)
-- [Quote, Build & Send with Swap Instructions Script](v1/quote-build-send-with-swap-instructions/README.md)
-- [Quote, Build & Send with Referral Accounts Script](v1/quote-build-send-with-referral-accounts/README.md)
+- [Quote, Build & Send Script](swap/quote-build-send/README.md)
+- [Quote, Build & Send with Swap Instructions Script](swap/quote-build-send-with-swap-instructions/README.md)
+- [Quote, Build & Send with Referral Accounts Script](swap/quote-build-send-with-referral-accounts/README.md)
+
+## Trigger API
+
+- [Create & Execute Order Script](trigger/create-execute-order/README.md)
+- [Get & Cancel Order Script](trigger/get-cancel-order/README.md)
+
+## Recurring API
+
+- [Create & Execute Order Script](recurring/create-execute-order/README.md)
 
 ## Documentation
 
