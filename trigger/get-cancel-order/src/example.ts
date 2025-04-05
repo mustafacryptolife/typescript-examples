@@ -1,4 +1,4 @@
-import { PublicKey, Connection, VersionedTransaction } from "@solana/web3.js";
+import { Connection, VersionedTransaction } from "@solana/web3.js";
 import { Keypair } from "@solana/web3.js";
 import bs58 from "bs58";
 
