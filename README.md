@@ -24,10 +24,11 @@ Written in Typescript.
 ## Recurring API
 
 - [Create & Execute Order Script](recurring/create-execute-order/README.md)
+- [Get & Cancel Order Script](recurring/get-cancel-order/README.md)
 
 ## Documentation
 
-[Space Station Documentation](https://station.jup.ag/docs/)
+[Developer Documentation](https://dev.jup.ag/)
 
 ## Getting Help
 
