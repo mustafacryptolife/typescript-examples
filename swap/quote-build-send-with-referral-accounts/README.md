@@ -40,3 +40,23 @@ npm install
 ```bash
 npm run example
 ```
+
+## Create a referral token account
+
+1. Navigate to the `swap/quote-build-send-with-referral-accounts` directory
+
+```bash
+cd swap/quote-build-send-with-referral-accounts
+```
+
+2. Install the dependencies
+
+```bash
+npm install
+```
+
+3. Run the script
+
+```bash
+npm run create-token-account
+```

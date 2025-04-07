@@ -4,7 +4,8 @@
     "description": "TypeScript example for Jupiter V1 Swap API quote -> build -> send (with referral accounts)",
     "type": "module",
     "scripts": {
-        "example": "tsx src/example.ts"
+        "example": "tsx src/example.ts",
+        "create-token-account": "tsx src/scripts/create-token-account.ts"
     },
     "devDependencies": {
         "tsx": "^4.7.1"
