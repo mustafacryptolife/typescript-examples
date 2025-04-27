@@ -5,13 +5,18 @@
     "type": "module",
     "scripts": {
         "example": "tsx src/example.ts",
-        "create-token-account": "tsx src/scripts/create-token-account.ts"
+        "create-referral-account": "tsx src/scripts/create-referral-account.ts",
+        "create-referral-token-account": "tsx src/scripts/create-referral-token-account.ts",
+        "get-referral-account": "tsx src/scripts/get-referral-account.ts",
+        "get-referral-token-account": "tsx src/scripts/get-referral-token-account.ts",
+        "claim-all-fees": "tsx src/scripts/claim-all-fees.ts"
     },
     "devDependencies": {
         "tsx": "^4.7.1"
     },
     "dependencies": {
         "@jup-ag/referral-sdk": "^0.2.0",
+        "@solana/spl-token": "^0.4.13",
         "@solana/web3.js": "^1.95.2",
         "bs58": "^6.0.0"
     }
