@@ -9,6 +9,7 @@ Written in Typescript.
 ### Ultra API
 
 - [Order & Execute Script](ultra/order-execute/README.md)
+- [Order & Execute with Referral Accounts](ultra/order-execute-with-referral-accounts/README.md)
 
 ## Swap API
 
